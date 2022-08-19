@@ -1,1 +1,2 @@
-# Defi-Staking-App
+# Defi Staking App
+A minimal staking smart contract.
